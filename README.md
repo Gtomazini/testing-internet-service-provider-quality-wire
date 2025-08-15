@@ -1,1 +1,3 @@
-# testing-internet-service-provider-quality-wire
+# TISQ - Testing Internet Service Quality
+
+Author - Gabriel
